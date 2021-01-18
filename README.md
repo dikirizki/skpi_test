@@ -19,3 +19,5 @@ use tokobuku;<br>
 db.books.insert({name:'diki rizki', detail:'test'})<br>
 db.books.insert({name:'adventure', detail:'pegunungan'})<br>
 
+kemudian jalankan dengan <br>
+#php artisan serv
